@@ -1,16 +1,33 @@
-### Hi there 👋
+# ✌ Hi, I'm DomeQ!
 
-<!--
-**DomeQdev/DomeQdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a self-taught developer based in **Poland**.
+- The following are some of the technologies that have picked my interest or that I use very often:
+  - JavaScript
+  - Node
+  - React
+  - HTML
+  - CSS
 
-Here are some ideas to get you started:
+<details>
+  <summary><b>Click to view my GitHub statistics</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=DomeQdev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=DomeQdev&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+## Follow me around
+
+<a href="https://discord.gg/7BeDqdRFtE">
+  <img src="https://invidget.switchblade.xyz/7BeDqdRFtE" align="right">
+</a>
+
+- **[Discord](https://discord.com/users/714550610489508050)** DomeQ#0001
+- **[YouTube](https://www.youtube.com/channel/UChrArnvNdoVDFrg7O9yUcXg)** DomeQ
