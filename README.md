@@ -4,7 +4,7 @@
 - The following are some of the technologies that have picked my interest or that I use very often:
   - JavaScript
   - Node
-  - React
+  - React (Still learning)
   - HTML
   - CSS
 
