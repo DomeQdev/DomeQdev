@@ -1,4 +1,4 @@
-# [DomeQdev](https://domeq.pw)
+# [DomeQdev](https://domeq.pw) mailto:info@domeq.pw
 domeq is cute back-end dev from poland
 
 # (not dead) Projects
