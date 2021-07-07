@@ -5,4 +5,4 @@ domeq is cute back-end dev from poland
 - [disk.dog](https://disk.dog)
 
 # Special thanks
-[@Pixwl_](../../../../../Pixwl_) <!-- lol -->
+[@Pixwl](../../../../../Pixwl) <!-- lol -->
