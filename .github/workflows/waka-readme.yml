@@ -18,4 +18,7 @@ jobs:
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
+          CODE_LANG: rust
+          COMMIT_MESSAGE: ✨
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           
